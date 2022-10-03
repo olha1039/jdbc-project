@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day01/distinct.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day01/select.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day01/where.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/MultiRowFunctions.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/like.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/orderBy.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/practice.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day02/review.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day03/having.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day03/rowNum.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/Queries/day03/subquery.sql" dialect="GenericSQL" />
+  </component>
+</project>
